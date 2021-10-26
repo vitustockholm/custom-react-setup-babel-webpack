@@ -32,3 +32,9 @@ webpack-cli
 webpack-dev-server
 webpack-merge
 html-webpack-plugin
+babel-loader
+css-loader
+style-loader
+@babel/core
+@babel/preset-env
+@babel/preset-react

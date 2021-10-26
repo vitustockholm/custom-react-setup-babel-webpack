@@ -1,0 +1,32 @@
+npm init
+
+npm install 
+            react
+             react-dom
+
+npm install -D     
+  webpack
+    webpack-cli
+     webpack-dev-server
+      webpack-merge
+       html-webpack-plugin
+
+npm install -D
+       babel-loader 
+        css-loader
+          style-loader
+           @babel/core
+            @babel/preset-env
+             @babel/preset-react
+
+
+
+
+-----
+          webpack - bundling
+          babel - transpiling
+-----
+/webpack/ 
+  config - checking environment
+         mode: 'development'
+         mode: 'production'
