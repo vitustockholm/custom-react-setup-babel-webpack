@@ -1,6 +1,6 @@
 # About project
 
-Custom SPA - React.js + WEBPack + Babel
+Custom SPA - React.js + WEBPack + Babel configuration 
 
 ## Available scripts
 
